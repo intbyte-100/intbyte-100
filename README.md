@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm intbyte</h1>
 <h3 align="center">A student gamedev/android developer from Russian</h3>
