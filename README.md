@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm intbyte</h1>
 <h3 align="center">A student gamedev/android developer from Russian</h3>
 
-- 🔭 I’m currently working on [karint engine](https://github.com/intbyte-100/Karint)
 
-- 🌱 I’m currently learning **OpenGL, GLFW and cpp**
 
 - 📫 How to reach me **@intbyte20 in telegram**
 
